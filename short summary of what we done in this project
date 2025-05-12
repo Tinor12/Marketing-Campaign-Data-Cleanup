@@ -1,0 +1,15 @@
+In this project, we focused on cleaning and preprocessing a marketing campaign dataset to make it ready for analysis. The main steps included:
+
+Loading the dataset and handling missing values by filling them with the median of the respective columns.
+
+Removing duplicate rows to ensure data consistency.
+
+Standardizing text data in columns like 'Education' and 'Marital_Status' by cleaning up spaces and converting to lowercase.
+
+Converting date formats for easier analysis.
+
+Renaming columns for consistency and clarity.
+
+Correcting data types for various columns, such as converting income to a float and family-related columns to integers.
+
+Saving the cleaned dataset for future use.
